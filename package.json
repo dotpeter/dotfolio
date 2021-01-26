@@ -1,0 +1,28 @@
+{
+  "name": "dotfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dotpeter/dotfolio.git"
+  },
+  "author": "dotpeter",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dotpeter/dotfolio/issues"
+  },
+  "homepage": "https://github.com/dotpeter/dotfolio#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.14",
+    "laravel-mix": "^6.0.10",
+    "webpack": "^5.17.0",
+    "webpack-cli": "^4.4.0"
+  },
+  "dependencies": {
+    "tailwindcss": "^2.0.2"
+  }
+}
